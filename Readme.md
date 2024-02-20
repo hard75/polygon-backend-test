@@ -35,7 +35,7 @@ To configure MySQL in Sequelize for your Node.js application, follow these steps
 1. **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone [https://github.com/your-username/your-project.git](https://github.com/hard75/polygon-backend-test)
    
    cd your-project
    npm install
